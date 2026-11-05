@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Damascus",
+  "poll_interval_seconds": 60,
+  "default_platforms": "ig, tg",
+  "instagram": {
+    "username": ""
+  },
+  "telegram": {
+    "bot_token": "",
+    "channel": ""
+  }
+}

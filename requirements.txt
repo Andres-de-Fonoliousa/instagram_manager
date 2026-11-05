@@ -1,0 +1,9 @@
+# Core
+instagrapi==2.18.14
+aiogram>=3.7
+apscheduler==3.11.0
+aiohttp>=3.9
+tzlocal>=5.0
+
+# Optional: legacy cookie-based session grab (grab_session.py)
+browser_cookie3>=0.16.2
